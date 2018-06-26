@@ -5,4 +5,4 @@
 4. Run the python script.
 
 # Other
-THe .tsv files included are the inputs and output files used and created from by this program.
+The .tsv files included are the inputs and output files used and created from by this program.
