@@ -16,7 +16,7 @@ def convert_coordinate(x, y):
 file = open('./Gavin_water_data_2010_metadata.tsv')
 reader = csv.reader(file, delimiter='\t')
 # Change change to desired output name
-with open("./new_meta.tsv", "w") as output_file:
+with open("./output/new_meta.tsv", "w") as output_file:
     firstLine = True
     header_row = []
     for row in reader:
