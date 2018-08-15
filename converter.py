@@ -5,6 +5,8 @@ def convert_coordinate(x, y):
     '''
     Casts coordinates into numeric floats, converts them from NZGD2000 to epsg:4326
     '''
+    x = x.replace('--', '-')
+    y = y.replace('--', '-')
     x = float(x)
     y = float(y)
     inProj = Proj(init='epsg:2193')
@@ -13,8 +15,8 @@ def convert_coordinate(x, y):
     return out_x, out_y
 
 # Change to file you want to convert.
-file = open('./Gavin_water_data_2010_metadata.tsv')
-reader = csv.reader(file, delimiter='\t')
+file = open('./input/Syrie-metadata-trimmed.csv')
+reader = csv.reader(file, delimiter=',')
 # Change change to desired output name
 with open("./output/new_meta.tsv", "w") as output_file:
     firstLine = True
