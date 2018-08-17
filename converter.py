@@ -29,6 +29,16 @@ def output_only_rows(x, y, writer):
     print(y, x)
     writer.writerow([y, x])
 
+def DMS_to_DD(coordinate):
+    '''
+    Convert degrees, minutes, seconds format to decimal degrees format
+    '''
+    [degrees, minutes, seconds] = [float(segment.strip(" ")) for segment in coordinate.split(" ")]
+    print('d', degrees,'m', minutes,'s', seconds)
+    # rr = 10/0
+    degree_decimal = degrees + (minutes/60) + (seconds/3600)
+    print(degree_decimal)
+
 # Change to file you want to convert.
 file = open('./input/Syrie-metadata-trimmed.csv')
 reader = csv.reader(file, delimiter=',')
