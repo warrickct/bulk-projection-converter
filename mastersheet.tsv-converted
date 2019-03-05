@@ -1,0 +1,294 @@
+Sequences accession	Iwi area	Amplicon	Elevation (m)	SampleID	Min temp (˚C)	Latitude	Rainfall (mm)	Project number	Soil type	Biome T1	Date collected	Sequencing platform	Environmental feature T2	Environmental feature T3	Environmental feature T1	Max temp (˚C)	Biome T2	Biome T3	Longitude	Sample description	Land type	Data provider	Primer sequence R	Conservation land status	Environmental material T1	Environmental material T2	Environmental material T3	Regional council	Primer sequence F
+	0	16S, 18S, 26S, COI, ITS	0	CW52	0	-405.507725922	0	P1	0	Terrestrial	7/12/2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	69.1416470402	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	CY69	0	-303.82206067	0	P1	0	Terrestrial	8/12/2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	-129.509684013	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	Beech Forest Soil   	0	0
+	0	16S, 18S, 26S, COI, ITS	0	CU85	0	-271.282380923	0	P1	0	Terrestrial	10/12/2013	Illumina Miseq	0	0	0	0	Forest	Mixed	20.4628533923	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	CJ95	0	-317.281890384	0	P1	0	Terrestrial	9/12/2013	Illumina Miseq	0	0	Island	0	Forest	Mixed	78.4379327891	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	AY112	0	-820.476788436	0	P1	0	Terrestrial	13/11/2013	Illumina Miseq	0	0	0	0	Forest	Mixed	100.639784771	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	BO116	0	-437.079280118	0	P1	0	Terrestrial	22/02/2014	Illumina Miseq	0	0	0	0	Shrubland	Montane	-28.6879510095	0	0	Andrew Dopheide	0	0	Soil	0	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	AU127	0	-739.07342919	0	P1	0	Terrestrial	20/02/2014	Illumina Miseq	0	0	0	0	Grassland	Montane	108.821277798	0	0	Andrew Dopheide	0	0	Soil	Grassland Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	AL132	0	-963.166894872	0	P1	0	Terrestrial	21/02/2014	Illumina Miseq	0	0	Moraine	0	Forest	Mixed	24.2793226625	0	0	Andrew Dopheide	0	0	Gravel	0	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	U155	0	-1319.92859931	0	P1	0	Terrestrial	18/02/2014	Illumina Miseq	0	0	0	0	Grassland	Montane	104.185717481	0	0	Andrew Dopheide	0	0	Soil	Grassland Soil	0	0	0
+	0	16S, 18S, 26S, COI, ITS	0	R158	0	-1432.81952437	0	P1	0	Terrestrial	19/02/2014	Illumina Miseq	0	0	0	0	Forest	Broadleaf	-28.2046279275	0	0	Andrew Dopheide	0	0	Soil	Forest Soil	Beech Forest Soil   	0	0
+PRJNA393363	0	16S, 18S, 26S, COI, ITS	174.627853	CM30b51-B	0	-36.179	0	P2	0	0	2013	Illumina Miseq	0	0	0	0	0	0	175.098	-36.179	175.098	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393364	0	16S, 18S, 26S, COI, ITS	174.627853	CM30b51-M	0	-36.179	0	P2	0	0	2013	Illumina Miseq	0	0	0	0	0	0	175.098	-36.179	175.098	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393365	0	16S, 18S, 26S, COI, ITS	9	CM30b58-C	0	-36.21941154	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Forest	175.0520642	-36.21941154	175.0520642	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393366	0	16S, 18S, 26S, COI, ITS	9	CM30b58-I	0	-36.21941154	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Forest	175.0520642	-36.21941154	175.0520642	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393367	0	16S, 18S, 26S, COI, ITS	400	CM30b60-E	0	-36.183	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.104	-36.183	175.104	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393368	0	16S, 18S, 26S, COI, ITS	400	CM30b60-M	0	-36.183	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.104	-36.183	175.104	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393369	0	16S, 18S, 26S, COI, ITS	227	CM30c28-N	0	-36.20201485	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0604515	-36.20201485	175.0604515	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393370	0	16S, 18S, 26S, COI, ITS	227	CM30c28-P	0	-36.20201485	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0604515	-36.20201485	175.0604515	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393371	0	16S, 18S, 26S, COI, ITS	597	CM30c30-L	0	-36.20137316	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0715118	-36.20137316	175.0715118	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393372	0	16S, 18S, 26S, COI, ITS	597	CM30c30-N	0	-36.20137316	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0715118	-36.20137316	175.0715118	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393373	0	16S, 18S, 26S, COI, ITS	165	CM30c35-B	0	-36.20657661	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.054643	-36.20657661	175.054643	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393374	0	16S, 18S, 26S, COI, ITS	165	CM30c35-D	0	-36.20657661	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.054643	-36.20657661	175.054643	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393375	0	16S, 18S, 26S, COI, ITS	279	CM30c37-E	0	-36.20641372	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.065672	-36.20641372	175.065672	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393376	0	16S, 18S, 26S, COI, ITS	279	CM30c37-L	0	-36.20641372	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.065672	-36.20641372	175.065672	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393377	0	16S, 18S, 26S, COI, ITS	290	CM30c39-A	0	-36.20622987	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0768116	-36.20622987	175.0768116	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393378	0	16S, 18S, 26S, COI, ITS	290	CM30c39-E	0	-36.20622987	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0768116	-36.20622987	175.0768116	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393379	0	16S, 18S, 26S, COI, ITS	110	CM30c44-B	0	-36.21106316	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0605442	-36.21106316	175.0605442	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393380	0	16S, 18S, 26S, COI, ITS	110	CM30c44-C	0	-36.21106316	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0605442	-36.21106316	175.0605442	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393381	0	16S, 18S, 26S, COI, ITS	319	CM30c46-D	0	-36.21068309	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0715904	-36.21068309	175.0715904	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393382	0	16S, 18S, 26S, COI, ITS	319	CM30c46-O	0	-36.21068309	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0715904	-36.21068309	175.0715904	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393383	0	16S, 18S, 26S, COI, ITS	67	CM30c51-H	0	-36.21564029	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0548912	-36.21564029	175.0548912	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393384	0	16S, 18S, 26S, COI, ITS	67	CM30c51-I	0	-36.21564029	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0548912	-36.21564029	175.0548912	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393385	0	16S, 18S, 26S, COI, ITS	155	CM30c53-B	0	-36.21504238	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0660546	-36.21504238	175.0660546	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393386	0	16S, 18S, 26S, COI, ITS	155	CM30c53-I	0	-36.21504238	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0660546	-36.21504238	175.0660546	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393387	0	16S, 18S, 26S, COI, ITS	51	CM30c60-A	0	-36.2199859	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0606003	-36.2199859	175.0606003	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393388	0	16S, 18S, 26S, COI, ITS	51	CM30c60-B	0	-36.2199859	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0606003	-36.2199859	175.0606003	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393389	0	16S, 18S, 26S, COI, ITS	99	CM30c62-D	0	-36.21924386	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0717272	-36.21924386	175.0717272	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393390	0	16S, 18S, 26S, COI, ITS	99	CM30c62-M	0	-36.21924386	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0717272	-36.21924386	175.0717272	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393391	0	16S, 18S, 26S, COI, ITS	283	CM30c-O	0	-36.20401831	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Forest	175.0629287	-36.20401831	175.0629287	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393392	0	16S, 18S, 26S, COI, ITS	283	CM30c-P	0	-36.20401831	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Forest	175.0629287	-36.20401831	175.0629287	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393393	0	16S, 18S, 26S, COI, ITS	371	CM30d12-H	0	-36.19212957	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.1043062	-36.19212957	175.1043062	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393394	0	16S, 18S, 26S, COI, ITS	371	CM30d12-L	0	-36.19212957	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.1043062	-36.19212957	175.1043062	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393395	0	16S, 18S, 26S, COI, ITS	518	CM30d3-D	0	-36.18768674	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0986053	-36.18768674	175.0986053	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393396	0	16S, 18S, 26S, COI, ITS	518	CM30d3-L	0	-36.18768674	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0986053	-36.18768674	175.0986053	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393397	0	16S, 18S, 26S, COI, ITS	70	CM31a5-A	0	-36.2232163	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0666701	-36.2232163	175.0666701	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393398	0	16S, 18S, 26S, COI, ITS	70	CM31a5-B	0	-36.2232163	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0666701	-36.2232163	175.0666701	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393399	0	16S, 18S, 26S, COI, ITS	630	LB1-A	0	-36.19918691	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0754355	-36.19918691	175.0754355	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393400	0	16S, 18S, 26S, COI, ITS	630	LB1-E	0	-36.19918691	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0754355	-36.19918691	175.0754355	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393401	0	16S, 18S, 26S, COI, ITS	634	LB5-A	0	-36.19332887	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0914276	-36.19332887	175.0914276	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393402	0	16S, 18S, 26S, COI, ITS	634	LB5-I	0	-36.19332887	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0914276	-36.19332887	175.0914276	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393403	0	16S, 18S, 26S, COI, ITS	50	Plot01-B	0	-36.22465404	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0698348	-36.22465404	175.0698348	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393404	0	16S, 18S, 26S, COI, ITS	50	Plot01-L	0	-36.22465404	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Shrubland	0	175.0698348	-36.22465404	175.0698348	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393405	0	16S, 18S, 26S, COI, ITS	90	Plot02-C	0	-36.21832519	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0703615	-36.21832519	175.0703615	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393406	0	16S, 18S, 26S, COI, ITS	90	Plot02-M	0	-36.21832519	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0703615	-36.21832519	175.0703615	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393407	0	16S, 18S, 26S, COI, ITS	160	Plot03-H	0	-36.21677479	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0736421	-36.21677479	175.0736421	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393408	0	16S, 18S, 26S, COI, ITS	160	Plot03-N	0	-36.21677479	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0736421	-36.21677479	175.0736421	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393409	0	16S, 18S, 26S, COI, ITS	260	Plot04-A	0	-36.21286308	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0745618	-36.21286308	175.0745618	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393410	0	16S, 18S, 26S, COI, ITS	260	Plot04-N	0	-36.21286308	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0745618	-36.21286308	175.0745618	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393411	0	16S, 18S, 26S, COI, ITS	240	Plot05-I	0	-36.21538985	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0753478	-36.21538985	175.0753478	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393412	0	16S, 18S, 26S, COI, ITS	240	Plot05-N	0	-36.21538985	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0753478	-36.21538985	175.0753478	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393413	0	16S, 18S, 26S, COI, ITS	320	Plot06-I	0	-36.2135126	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0759379	-36.2135126	175.0759379	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393414	0	16S, 18S, 26S, COI, ITS	320	Plot06-N	0	-36.2135126	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Broadleaf	Mixed	175.0759379	-36.2135126	175.0759379	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393415	0	16S, 18S, 26S, COI, ITS	420	Plot07-M	0	-36.21177994	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0788458	-36.21177994	175.0788458	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393416	0	16S, 18S, 26S, COI, ITS	420	Plot07-N	0	-36.21177994	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0788458	-36.21177994	175.0788458	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA393417	0	16S, 18S, 26S, COI, ITS	460	Plot08-I	0	-36.21004661	0	P2	0	Terrestrial	2013	Illumina Miseq	0	0	0	0	Forest	Broadleaf	175.0789839	-36.21004661	175.0789839	0	0	Andrew Dopheide	0	0	0	0	0	0	0
+PRJNA328535	0	16S	0	ABT	0	-523.464065701	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	28.2034129609	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AG	0	-458.535649721	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	131.519264063	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AHR	0	-596.822694698	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	173.862766033	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akMK	0	-834.444264843	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-22.7968291936	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akMW	0	-789.627693477	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	179.642708947	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akNK	0	-630.154237348	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-53.5138163767	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akOK	0	-758.662250687	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	13.7301411944	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AKR	0	-316.988739948	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-54.6578675793	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akWG	0	-678.950031435	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	36.5791335792	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akWH	0	-790.379517604	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-147.805606877	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	akWK	0	-786.789613112	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-165.164306648	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ANI	0	-243.897546152	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-141.317997263	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AR	0	-619.548573245	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	20.14208583	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ARM	0	-807.788451665	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	101.471793776	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ART	0	-766.746280238	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-31.6591797435	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ASH	0	-389.009676367	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-138.335595629	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AU	0	-766.774782056	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-32.5781235441	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AW	0	-238.372795597	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	177.010076093	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AWD	0	-850.857299441	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-90.8345817104	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	AWN	0	-766.784155726	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-32.5830369783	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BAL	0	-316.37256411	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-50.3483698651	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BC	0	-266.244244388	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	21.2980996637	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BOG	0	-388.196312136	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-164.28056329	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BOR	0	-505.638968103	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-18.886515075	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BR	0	-224.330271035	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-74.7461906764	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	BSH	0	-681.260783352	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	67.5477482611	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	CB	0	-738.785169245	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	114.499618211	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	cbWK	0	-456.677915968	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	6.47954047778	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	CH	0	-741.284158636	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	94.2958956386	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	CL	0	-598.748148178	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-163.403556737	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	CMD	0	-388.136546082	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-138.595269532	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	CS	0	-782.497816504	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-136.339307912	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	D	0	-641.117824215	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-90.1261908083	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	DC	0	-806.512830574	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	143.8241076	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	DCB	0	-802.077305928	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	161.500572057	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	DCP	0	-802.394535027	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	159.835664865	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	DRY	0	-412.830831617	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	97.2756631406	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	DUD	0	-372.092472434	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-41.9248217132	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	EAL	0	-502.823494632	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	129.498474343	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	EL	0	-746.145787163	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	70.2953461879	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	EM	0	-744.97074544	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	76.45117446	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ESK	0	-239.844698587	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-134.719086741	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	EU	0	-744.12589478	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	80.995196826	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	FRK	0	-734.576814408	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	21.8764260434	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	GLN	0	-608.238580794	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	137.672877591	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HAL	0	-621.326817483	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	49.0440523448	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HAN	0	-219.019851539	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	0.0602170777489	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hbMAK	0	-247.788208933	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	162.100332054	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hbMAN	0	-238.995220119	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-143.25136944	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hbMNR	0	-245.304248409	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-167.677395702	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hbPOR	0	-220.568397038	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-44.2415791636	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HER	0	-226.990350532	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-67.1310815527	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HKH	0	-842.556413436	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-45.905690054	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HOK	0	-303.444685149	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	171.497880079	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HOR	0	-304.132380556	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	148.717355623	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hrMAN	0	-262.130811076	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	65.0721001395	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hrMW	0	-257.794644359	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	92.8356201736	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HRN	0	-414.231355577	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	84.3989807949	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	hrWG	0	-424.582484817	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-110.275151451	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HT	0	-307.683722275	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-177.515469142	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HTM	0	-285.342015402	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-96.9277874739	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HUT	0	-298.043375501	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-178.828430152	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	HW	0	-653.495096665	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	159.366495155	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	IRC	0	-735.935165196	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	0.272165615047	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	JLB	0	-503.412848258	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-6.0879626475	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	JLH	0	-500.61115028	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	9.99857665992	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	JLW	0	-501.928169055	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	2.25897347533	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	K	0	-789.332011817	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-161.743934494	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KAR	0	-309.958509493	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	104.293258347	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KAU	0	-511.576154294	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-116.407018573	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KH	0	-279.958227304	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-41.8868723836	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KKP	0	-840.279494881	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-62.0631579521	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KN	0	-598.481248944	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	129.336033609	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KOW	0	-345.672950424	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-170.229989107	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KP	0	-389.70330208	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-151.655894481	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KRK	0	-572.193317578	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-65.3411248226	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KT	0	-727.964514886	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	140.290425668	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KTN	0	-350.797692548	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	84.9619569305	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	KWH	0	-307.020144392	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	123.883273697	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	LG	0	-750.013421807	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	51.5152787682	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	LU	0	-758.6690333	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	9.22278292146	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	LV	0	-753.561877508	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	40.5360035146	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	LYL	0	-343.572554064	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-154.88414913	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	M	0	-694.830734717	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-9.65921966023	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MA	0	-869.573541886	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	159.137998912	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MB	0	-726.454990084	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	51.615243594	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MD	0	-360.102425517	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-111.947540944	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MGK	0	-214.188629625	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	1.01857297638	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MGP	0	-304.019600405	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	162.701619721	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MH	0	-814.311285737	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	96.7303152241	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MKD	0	-292.48137764	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-68.9826360861	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MKM	0	-271.614339413	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	51.8477218578	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MKU	0	-295.174513171	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-84.3323018497	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ML	0	-597.655568932	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	130.590843066	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MNK	0	-225.453553489	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-58.3915310446	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MNR	0	-560.594094704	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-76.1969671255	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MNT	0	-226.630502357	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-65.0034799706	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MO	0	-292.428610604	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-116.176579362	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MPT	0	-266.957223512	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	38.8545116017	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MRP	0	-232.597721207	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-85.3107317581	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MSB	0	-599.065529547	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	79.4688853002	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MTK	0	-812.414896535	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	117.79219884	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MTR	0	-259.300323734	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	62.2913395144	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MTU	0	-575.242146024	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-75.1663589925	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MU	0	-668.853752914	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	95.2317195778	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MUG	0	-269.692690028	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	22.8994655804	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MWB	0	-252.54508796	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	127.618684284	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MWF	0	-248.026868907	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-171.716668505	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MWP	0	-368.296669879	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-160.963625412	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	MWW	0	-307.350389137	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	152.08030134	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	NKU	0	-789.326613913	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-141.233982472	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	O	0	-734.588311793	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	131.501798961	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OAG	0	-280.495198473	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-28.0369862104	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OAK	0	-735.228427869	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	121.617971467	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OAL	0	-290.286032392	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-94.0148366028	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OAM	0	-513.435339306	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	163.310096237	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OB	0	-603.57056835	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	107.360673345	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OHP	0	-496.273816004	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	158.221223658	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OMR	0	-770.382493528	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	67.0358178343	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OMW	0	-523.208483961	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	116.894372055	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OP	0	-761.662950902	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-23.7903202313	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OPH	0	-499.731294065	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	130.546830846	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OPU	0	-581.351243324	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-40.5269154405	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OR	0	-762.299365465	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-5.22504375896	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	ORO	0	-296.564844369	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-135.029538762	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OT	0	-762.505788611	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-7.39446873919	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OTH	0	-755.74579193	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	23.6357536579	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OTN	0	-789.241749157	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-140.044742906	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	OTR	0	-678.786322089	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	61.0968983846	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PAH	0	-412.610186139	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	99.7835870074	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PAW	0	-324.658046112	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-101.564457963	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PB	0	-667.84867239	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	116.676970809	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PCK	0	-502.527956421	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-113.94185989	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PGH	0	-244.220294738	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-177.118522681	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PH	0	-814.725834199	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	89.9966822778	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PHE	0	-542.35429456	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	78.406182036	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PHN	0	-678.651260729	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	58.6209994964	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PHP	0	-273.94318128	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	6.78133251659	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PIR	0	-509.139299497	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-164.84639746	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PKW	0	-254.96500683	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	87.9148758267	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PP	0	-661.443016834	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	149.342119292	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PRN	0	-570.747877455	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-67.3581690701	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PRS	0	-345.415966242	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	119.375071133	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PU	0	-668.028714434	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	115.751958286	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	PUH	0	-214.896713682	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-0.0495894027166	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	QLB	0	-788.548927107	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-50.0026872338	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RED	0	-522.830428521	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-122.895547714	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RES	0	-500.402548109	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	12.4046110584	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RG	0	-286.57447059	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-53.2687761504	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RH	0	-802.050930746	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	133.282686219	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RHP	0	-228.798125389	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-76.5809468487	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RMW	0	-297.069888184	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-120.999048018	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	RUA	0	-221.906954445	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-18.1366749055	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SEL	0	-487.502612436	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-76.815215456	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SH	0	-737.954336425	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	131.400218906	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SKL	0	-412.232326685	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	103.974283631	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SP	0	-609.284802466	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	73.1812036562	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SPR	0	-782.028463475	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	11.3743559662	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SR	0	-387.600874329	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-155.83087949	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	STX	0	-382.578425982	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-107.906642226	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	SY	0	-642.937177147	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-114.571841003	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TAS	0	-541.959734608	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	128.389961915	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TH	0	-261.848837975	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	67.300508495	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TIR	0	-255.953065516	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	100.58521485	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TIW	0	-232.537526333	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-81.0775022554	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TK	0	-348.980979614	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-51.7071857945	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TKP	0	-249.144044306	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	155.506688877	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TKT	0	-249.324792916	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	155.304228631	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TNK	0	-386.16031696	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-121.485811826	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TP	0	-297.695508026	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-96.537404386	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TR	0	-246.912797153	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	137.304269438	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRB	0	-221.790588389	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-37.8307996726	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRC	0	-238.850831995	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-165.172604863	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRK	0	-593.699026392	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	94.5289634867	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRN	0	-769.203846801	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-13.7222003926	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRP	0	-532.415758869	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	147.084127436	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TRU	0	-532.670986718	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	125.389226829	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TS	0	-255.608058977	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	109.253297349	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TSH	0	-226.381356719	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-70.2325429107	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	tsRM	0	-498.873182083	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	20.7544297071	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	TUK	0	-225.599009845	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-57.4200175392	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	VU	0	-756.19337934	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	25.8255237279	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WAI	0	-296.571002847	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-171.002897879	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WB	0	-616.069086246	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	31.5069101266	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WC	0	-416.134305503	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-49.7927719749	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wgMAN	0	-286.065802112	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-101.843747765	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wgPOR	0	-307.909491529	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	122.873999107	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WGR	0	-573.636403909	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-73.0696647099	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wgWG	0	-267.917430971	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	11.0126369037	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WHB	0	-233.087071246	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-138.771471062	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WKK	0	-545.840719162	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	7.57084181993	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wkMTA	0	-611.87355984	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	28.383994168	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WKN	0	-297.30659087	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-161.917809079	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wkNK	0	-604.008598018	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	62.5182093143	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wkOKU	0	-523.774204718	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	112.063514736	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WKR	0	-237.976667623	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-110.553872865	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	wkWK	0	-532.487915781	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	62.2644452589	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WMR	0	-379.894899583	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-93.9395239792	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WMU	0	-540.934912118	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	85.9274609731	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WN	0	-585.673387272	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	143.311887224	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WP	0	-246.018209504	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	176.744234406	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WPR	0	-421.457692	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	24.9221633057	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WS	0	-634.366370614	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	-62.026563343	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+PRJNA328535	0	16S	0	WTT	0	-542.926223179	0	P3	0	Aquatic	2010	Illumina Miseq	Microbial Feature	Biofilm	Organic	0	Freshwater 	River	17.4425808739	0	0	Gavin Lear	0	0	Rock	Piece of Rock	0	0	0
+TBD	0	ITS	0	AB144	0	-44.33306438	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	169.0118439	-44.33306438	169.0118439	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	AG136	0	-43.77384042	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	169.5464042	-43.77384042	169.5464042	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CY54N	0	-37.85431063	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	176.2365112	-37.85431063	176.2365112	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	AZ117F	0	-42.44672371	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	171.4668532	-42.44672371	171.4668532	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	AZ117H	0	-42.44690204	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	171.4694146	-42.44690204	171.4694146	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	AZ117N	0	-42.44761105	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	171.4685583	-42.44761105	171.4685583	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	BH111	0	-42.0228415	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	172.2518624	-42.0228415	172.2518624	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	BL107	0	-41.5925544	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	172.4985959	-41.5925544	172.4985959	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CL96	0	-40.93051463	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	175.1465421	-40.93051463	175.1465421	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CM51F	0	-37.68329095	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	175.108379	-37.68329095	175.108379	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CM51H	0	-37.68137748	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	175.1070322	-37.68137748	175.1070322	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CM51N	0	-37.68231573	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	175.1084875	-37.68231573	175.1084875	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CQ65	0	-38.64620879	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	175.5486024	-38.64620879	175.5486024	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CY54F	0	-37.85276744	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	176.2349666	-37.85276744	176.2349666	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CY54H	0	-37.8540028	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	176.2365659	-37.8540028	176.2365659	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	DL60	0	-38.26413821	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	177.4116812	-38.26413821	177.4116812	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	DP56	0	-37.95073898	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	177.7225635	-37.95073898	177.7225635	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	M152	0	-44.84545888	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	167.4563419	-44.84545888	167.4563419	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	O151H	0	-44.78363375	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	167.6652155	-44.78363375	167.6652155	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	O151N	0	-44.78445966	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	167.6649749	-44.78445966	167.6649749	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	Beech forest soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	Q158F	0	-45.29684439	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	167.8225027	-45.29684439	167.8225027	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	Q158H	0	-45.29530308	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	167.8222607	-45.29530308	167.8222607	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	Q158N	0	-45.2951506	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Mixed 	167.8196983	-45.2951506	167.8196983	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
+TBD	0	ITS	0	CR90	0	-40.48160089	0	P4	0	Terrestrial	November 2014 - March 2015	Illumina Miseq, IonTorrent, Sanger	0	0	0	0	Forest	Broadleaf	175.666836	-40.48160089	175.666836	0	0	Ian Dickie	CGCCAGTTCTGCTTACC 	0	Soil	Forest Soil	leafy wood soil	0	GATGAAGAACACAGTGAAA
