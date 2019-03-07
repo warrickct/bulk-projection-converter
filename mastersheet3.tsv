@@ -1,0 +1,1007 @@
+Sequences accession	Environmental material T2	Sequencing platform	Min temp (˚C)	Environmental feature T3	Biome T1	Sample description	Rainfall (mm)	Date collected	Biome T2	Environmental feature T2	Iwi area	Environmental material T3	Primer sequence F	Primer sequence R	Regional council	Data provider	Max temp (˚C)	Environmental feature T1	SampleID	Latitude	Elevation (m)	Amplicon	Soil type	Land type	Biome T3	Project number	Longitude	Environmental material T1	Conservation land status
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	7/12/2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CW52	-405.5077259216806	0	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P1	69.14164704019743	Soil	0
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	8/12/2013	Forest	0	0	Beech Forest Soil   	0	0	0	Andrew Dopheide	0	0	CY69	-303.82206067047946	0	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P1	-129.50968401272598	Soil	0
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	10/12/2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CU85	-271.2823809225641	0	16S, 18S, 26S, COI, ITS	0	0	Mixed	P1	20.462853392335322	Soil	0
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	9/12/2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	Island	CJ95	-317.2818903838814	0	16S, 18S, 26S, COI, ITS	0	0	Mixed	P1	78.43793278907421	Soil	0
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	13/11/2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	AY112	-820.4767884357176	0	16S, 18S, 26S, COI, ITS	0	0	Mixed	P1	100.639784771215	Soil	0
+	0	Illumina Miseq	0	0	Terrestrial	0	0	22/02/2014	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	BO116	-437.0792801184334	0	16S, 18S, 26S, COI, ITS	0	0	Montane	P1	-28.68795100946224	Soil	0
+	Grassland Soil	Illumina Miseq	0	0	Terrestrial	0	0	20/02/2014	Grassland	0	0	0	0	0	0	Andrew Dopheide	0	0	AU127	-739.0734291901272	0	16S, 18S, 26S, COI, ITS	0	0	Montane	P1	108.82127779787251	Soil	0
+	0	Illumina Miseq	0	0	Terrestrial	0	0	21/02/2014	Forest	0	0	0	0	0	0	Andrew Dopheide	0	Moraine	AL132	-963.1668948716049	0	16S, 18S, 26S, COI, ITS	0	0	Mixed	P1	24.279322662545095	Gravel	0
+	Grassland Soil	Illumina Miseq	0	0	Terrestrial	0	0	18/02/2014	Grassland	0	0	0	0	0	0	Andrew Dopheide	0	0	U155	-1319.9285993145859	0	16S, 18S, 26S, COI, ITS	0	0	Montane	P1	104.18571748117773	Soil	0
+	Forest Soil	Illumina Miseq	0	0	Terrestrial	0	0	19/02/2014	Forest	0	0	Beech Forest Soil   	0	0	0	Andrew Dopheide	0	0	R158	-1432.8195243743376	0	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P1	-28.204627927511197	Soil	0
+PRJNA393363	0	Illumina Miseq	0	0	0	0	0	-36.179	2013	0	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b51-B	-36.179	174.627853	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.098	0	175.098	0
+PRJNA393364	0	Illumina Miseq	0	0	0	0	0	-36.179	2013	0	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b51-M	-36.179	174.627853	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.098	0	175.098	0
+PRJNA393365	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21941154	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b58-C	-36.21941154	9	16S, 18S, 26S, COI, ITS	0	0	Forest	P2	175.0520642	0	175.0520642	0
+PRJNA393366	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21941154	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b58-I	-36.21941154	9	16S, 18S, 26S, COI, ITS	0	0	Forest	P2	175.0520642	0	175.0520642	0
+PRJNA393367	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.183	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b60-E	-36.183	400	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.104	0	175.104	0
+PRJNA393368	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.183	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30b60-M	-36.183	400	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.104	0	175.104	0
+PRJNA393369	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20201485	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c28-N	-36.20201485	227	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0604515	0	175.0604515	0
+PRJNA393370	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20201485	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c28-P	-36.20201485	227	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0604515	0	175.0604515	0
+PRJNA393371	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20137316	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c30-L	-36.20137316	597	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0715118	0	175.0715118	0
+PRJNA393372	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20137316	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c30-N	-36.20137316	597	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0715118	0	175.0715118	0
+PRJNA393373	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20657661	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c35-B	-36.20657661	165	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.054643	0	175.054643	0
+PRJNA393374	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20657661	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c35-D	-36.20657661	165	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.054643	0	175.054643	0
+PRJNA393375	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20641372	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c37-E	-36.20641372	279	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.065672	0	175.065672	0
+PRJNA393376	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20641372	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c37-L	-36.20641372	279	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.065672	0	175.065672	0
+PRJNA393377	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20622987	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c39-A	-36.20622987	290	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0768116	0	175.0768116	0
+PRJNA393378	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20622987	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c39-E	-36.20622987	290	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0768116	0	175.0768116	0
+PRJNA393379	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21106316	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c44-B	-36.21106316	110	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0605442	0	175.0605442	0
+PRJNA393380	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21106316	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c44-C	-36.21106316	110	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0605442	0	175.0605442	0
+PRJNA393381	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21068309	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c46-D	-36.21068309	319	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0715904	0	175.0715904	0
+PRJNA393382	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21068309	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c46-O	-36.21068309	319	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0715904	0	175.0715904	0
+PRJNA393383	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21564029	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c51-H	-36.21564029	67	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0548912	0	175.0548912	0
+PRJNA393384	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21564029	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c51-I	-36.21564029	67	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0548912	0	175.0548912	0
+PRJNA393385	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21504238	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c53-B	-36.21504238	155	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0660546	0	175.0660546	0
+PRJNA393386	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21504238	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c53-I	-36.21504238	155	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0660546	0	175.0660546	0
+PRJNA393387	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2199859	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c60-A	-36.2199859	51	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0606003	0	175.0606003	0
+PRJNA393388	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2199859	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c60-B	-36.2199859	51	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0606003	0	175.0606003	0
+PRJNA393389	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21924386	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c62-D	-36.21924386	99	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0717272	0	175.0717272	0
+PRJNA393390	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21924386	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c62-M	-36.21924386	99	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0717272	0	175.0717272	0
+PRJNA393391	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20401831	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c-O	-36.20401831	283	16S, 18S, 26S, COI, ITS	0	0	Forest	P2	175.0629287	0	175.0629287	0
+PRJNA393392	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.20401831	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30c-P	-36.20401831	283	16S, 18S, 26S, COI, ITS	0	0	Forest	P2	175.0629287	0	175.0629287	0
+PRJNA393393	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19212957	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30d12-H	-36.19212957	371	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.1043062	0	175.1043062	0
+PRJNA393394	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19212957	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30d12-L	-36.19212957	371	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.1043062	0	175.1043062	0
+PRJNA393395	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.18768674	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30d3-D	-36.18768674	518	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0986053	0	175.0986053	0
+PRJNA393396	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.18768674	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	CM30d3-L	-36.18768674	518	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0986053	0	175.0986053	0
+PRJNA393397	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2232163	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM31a5-A	-36.2232163	70	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0666701	0	175.0666701	0
+PRJNA393398	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2232163	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	CM31a5-B	-36.2232163	70	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0666701	0	175.0666701	0
+PRJNA393399	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19918691	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	LB1-A	-36.19918691	630	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0754355	0	175.0754355	0
+PRJNA393400	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19918691	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	LB1-E	-36.19918691	630	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0754355	0	175.0754355	0
+PRJNA393401	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19332887	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	LB5-A	-36.19332887	634	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0914276	0	175.0914276	0
+PRJNA393402	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.19332887	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	LB5-I	-36.19332887	634	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0914276	0	175.0914276	0
+PRJNA393403	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.22465404	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot01-B	-36.22465404	50	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0698348	0	175.0698348	0
+PRJNA393404	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.22465404	2013	Shrubland	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot01-L	-36.22465404	50	16S, 18S, 26S, COI, ITS	0	0	0	P2	175.0698348	0	175.0698348	0
+PRJNA393405	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21832519	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot02-C	-36.21832519	90	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0703615	0	175.0703615	0
+PRJNA393406	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21832519	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot02-M	-36.21832519	90	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0703615	0	175.0703615	0
+PRJNA393407	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21677479	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot03-H	-36.21677479	160	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0736421	0	175.0736421	0
+PRJNA393408	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21677479	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot03-N	-36.21677479	160	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0736421	0	175.0736421	0
+PRJNA393409	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21286308	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot04-A	-36.21286308	260	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0745618	0	175.0745618	0
+PRJNA393410	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21286308	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot04-N	-36.21286308	260	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0745618	0	175.0745618	0
+PRJNA393411	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21538985	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot05-I	-36.21538985	240	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0753478	0	175.0753478	0
+PRJNA393412	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21538985	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot05-N	-36.21538985	240	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0753478	0	175.0753478	0
+PRJNA393413	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2135126	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot06-I	-36.2135126	320	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0759379	0	175.0759379	0
+PRJNA393414	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.2135126	2013	Broadleaf	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot06-N	-36.2135126	320	16S, 18S, 26S, COI, ITS	0	0	Mixed	P2	175.0759379	0	175.0759379	0
+PRJNA393415	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21177994	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot07-M	-36.21177994	420	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0788458	0	175.0788458	0
+PRJNA393416	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21177994	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot07-N	-36.21177994	420	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0788458	0	175.0788458	0
+PRJNA393417	0	Illumina Miseq	0	0	Terrestrial	0	0	-36.21004661	2013	Forest	0	0	0	0	0	0	Andrew Dopheide	0	0	Plot08-I	-36.21004661	460	16S, 18S, 26S, COI, ITS	0	0	Broadleaf	P2	175.0789839	0	175.0789839	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ABT	-523.4640657010387	0	16S	0	0	River	P3	28.203412960934454	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AG	-458.5356497208343	0	16S	0	0	River	P3	131.5192640627978	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AHR	-596.8226946981711	0	16S	0	0	River	P3	173.8627660329842	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akMK	-834.4442648433164	0	16S	0	0	River	P3	-22.79682919362114	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akMW	-789.6276934771425	0	16S	0	0	River	P3	179.64270894676008	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akNK	-630.1542373475628	0	16S	0	0	River	P3	-53.51381637666103	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akOK	-758.6622506867265	0	16S	0	0	River	P3	13.730141194352383	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AKR	-316.9887399477554	0	16S	0	0	River	P3	-54.657867579281294	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akWG	-678.9500314353093	0	16S	0	0	River	P3	36.57913357922305	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akWH	-790.3795176043444	0	16S	0	0	River	P3	-147.80560687711392	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	akWK	-786.7896131123164	0	16S	0	0	River	P3	-165.16430664840263	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ANI	-243.8975461517672	0	16S	0	0	River	P3	-141.31799726338113	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AR	-619.5485732451777	0	16S	0	0	River	P3	20.14208583003281	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ARM	-807.7884516649667	0	16S	0	0	River	P3	101.4717937763282	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ART	-766.7462802376408	0	16S	0	0	River	P3	-31.659179743493894	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ASH	-389.0096763669014	0	16S	0	0	River	P3	-138.33559562919825	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AU	-766.774782056315	0	16S	0	0	River	P3	-32.57812354411254	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AW	-238.37279559739957	0	16S	0	0	River	P3	177.01007609325654	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AWD	-850.8572994413004	0	16S	0	0	River	P3	-90.83458171042362	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	AWN	-766.7841557255173	0	16S	0	0	River	P3	-32.58303697834534	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BAL	-316.37256410953546	0	16S	0	0	River	P3	-50.34836986512015	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BC	-266.24424438762736	0	16S	0	0	River	P3	21.298099663693456	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BOG	-388.1963121360763	0	16S	0	0	River	P3	-164.28056329012162	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BOR	-505.63896810330573	0	16S	0	0	River	P3	-18.886515074956545	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BR	-224.33027103494285	0	16S	0	0	River	P3	-74.74619067638096	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	BSH	-681.2607833518226	0	16S	0	0	River	P3	67.5477482610939	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	CB	-738.7851692453444	0	16S	0	0	River	P3	114.4996182106333	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	cbWK	-456.67791596786697	0	16S	0	0	River	P3	6.479540477776427	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	CH	-741.284158635752	0	16S	0	0	River	P3	94.2958956386041	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	CL	-598.7481481777688	0	16S	0	0	River	P3	-163.40355673730176	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	CMD	-388.1365460817779	0	16S	0	0	River	P3	-138.59526953223923	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	CS	-782.4978165044555	0	16S	0	0	River	P3	-136.3393079122291	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	D	-641.1178242148388	0	16S	0	0	River	P3	-90.12619080827837	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	DC	-806.5128305740255	0	16S	0	0	River	P3	143.82410759980965	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	DCB	-802.0773059282866	0	16S	0	0	River	P3	161.50057205672536	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	DCP	-802.3945350269322	0	16S	0	0	River	P3	159.83566486546627	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	DRY	-412.8308316170996	0	16S	0	0	River	P3	97.27566314061495	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	DUD	-372.09247243392764	0	16S	0	0	River	P3	-41.92482171320172	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	EAL	-502.8234946322853	0	16S	0	0	River	P3	129.49847434269586	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	EL	-746.1457871628587	0	16S	0	0	River	P3	70.29534618793431	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	EM	-744.9707454399136	0	16S	0	0	River	P3	76.45117445997658	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ESK	-239.84469858723313	0	16S	0	0	River	P3	-134.7190867410223	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	EU	-744.1258947801847	0	16S	0	0	River	P3	80.99519682604215	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	FRK	-734.576814408172	0	16S	0	0	River	P3	21.876426043442944	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	GLN	-608.2385807936064	0	16S	0	0	River	P3	137.67287759101197	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HAL	-621.3268174833912	0	16S	0	0	River	P3	49.04405234483039	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HAN	-219.01985153878212	0	16S	0	0	River	P3	0.06021707774885192	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hbMAK	-247.7882089325772	0	16S	0	0	River	P3	162.10033205417932	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hbMAN	-238.9952201185997	0	16S	0	0	River	P3	-143.25136944039943	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hbMNR	-245.3042484092396	0	16S	0	0	River	P3	-167.6773957016348	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hbPOR	-220.5683970383029	0	16S	0	0	River	P3	-44.24157916355965	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HER	-226.99035053211213	0	16S	0	0	River	P3	-67.1310815526814	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HKH	-842.556413435823	0	16S	0	0	River	P3	-45.905690054043525	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HOK	-303.4446851493459	0	16S	0	0	River	P3	171.49788007923112	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HOR	-304.13238055598123	0	16S	0	0	River	P3	148.7173556230534	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hrMAN	-262.1308110761182	0	16S	0	0	River	P3	65.07210013949255	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hrMW	-257.7946443590074	0	16S	0	0	River	P3	92.83562017364751	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HRN	-414.23135557717245	0	16S	0	0	River	P3	84.39898079492674	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	hrWG	-424.5824848172699	0	16S	0	0	River	P3	-110.27515145058806	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HT	-307.6837222751024	0	16S	0	0	River	P3	-177.51546914201091	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HTM	-285.3420154024492	0	16S	0	0	River	P3	-96.92778747388621	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HUT	-298.04337550120545	0	16S	0	0	River	P3	-178.82843015213612	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	HW	-653.4950966645223	0	16S	0	0	River	P3	159.36649515543448	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	IRC	-735.9351651960595	0	16S	0	0	River	P3	0.27216561504662584	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	JLB	-503.41284825830985	0	16S	0	0	River	P3	-6.0879626475012	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	JLH	-500.61115028048204	0	16S	0	0	River	P3	9.998576659921287	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	JLW	-501.92816905502445	0	16S	0	0	River	P3	2.258973475326159	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	K	-789.3320118169852	0	16S	0	0	River	P3	-161.74393449401285	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KAR	-309.95850949274427	0	16S	0	0	River	P3	104.29325834660726	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KAU	-511.5761542937772	0	16S	0	0	River	P3	-116.40701857294818	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KH	-279.95822730435754	0	16S	0	0	River	P3	-41.88687238360842	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KKP	-840.2794948805355	0	16S	0	0	River	P3	-62.063157952099345	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KN	-598.481248944494	0	16S	0	0	River	P3	129.33603360922956	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KOW	-345.67295042440117	0	16S	0	0	River	P3	-170.22998910684544	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KP	-389.70330208019817	0	16S	0	0	River	P3	-151.65589448115077	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KRK	-572.1933175776298	0	16S	0	0	River	P3	-65.34112482261416	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KT	-727.9645148860877	0	16S	0	0	River	P3	140.29042566821968	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KTN	-350.79769254772685	0	16S	0	0	River	P3	84.96195693045983	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	KWH	-307.0201443915487	0	16S	0	0	River	P3	123.88327369686851	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	LG	-750.0134218068896	0	16S	0	0	River	P3	51.51527876822696	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	LU	-758.6690332996884	0	16S	0	0	River	P3	9.222782921462562	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	LV	-753.561877507843	0	16S	0	0	River	P3	40.536003514557585	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	LYL	-343.5725540644364	0	16S	0	0	River	P3	-154.8841491302498	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	M	-694.8307347165837	0	16S	0	0	River	P3	-9.659219660229617	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MA	-869.5735418862054	0	16S	0	0	River	P3	159.13799891175444	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MB	-726.4549900841972	0	16S	0	0	River	P3	51.61524359396985	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MD	-360.1024255171882	0	16S	0	0	River	P3	-111.94754094394288	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MGK	-214.18862962490152	0	16S	0	0	River	P3	1.0185729763828486	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MGP	-304.01960040499347	0	16S	0	0	River	P3	162.70161972094613	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MH	-814.3112857366298	0	16S	0	0	River	P3	96.7303152241499	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MKD	-292.4813776402813	0	16S	0	0	River	P3	-68.98263608606757	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MKM	-271.6143394125018	0	16S	0	0	River	P3	51.847721857767816	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MKU	-295.1745131706632	0	16S	0	0	River	P3	-84.33230184967638	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ML	-597.6555689319571	0	16S	0	0	River	P3	130.59084306644414	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MNK	-225.4535534886692	0	16S	0	0	River	P3	-58.391531044552856	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MNR	-560.5940947042463	0	16S	0	0	River	P3	-76.19696712549276	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MNT	-226.63050235664306	0	16S	0	0	River	P3	-65.00347997062913	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MO	-292.42861060407654	0	16S	0	0	River	P3	-116.17657936171877	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MPT	-266.95722351232655	0	16S	0	0	River	P3	38.85451160165716	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MRP	-232.59772120667	0	16S	0	0	River	P3	-85.31073175805138	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MSB	-599.0655295474215	0	16S	0	0	River	P3	79.46888530024195	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MTK	-812.4148965346595	0	16S	0	0	River	P3	117.79219883980235	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MTR	-259.3003237340021	0	16S	0	0	River	P3	62.291339514386344	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MTU	-575.24214602433	0	16S	0	0	River	P3	-75.1663589925211	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MU	-668.8537529141023	0	16S	0	0	River	P3	95.23171957777645	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MUG	-269.69269002759705	0	16S	0	0	River	P3	22.89946558041082	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MWB	-252.54508796011953	0	16S	0	0	River	P3	127.61868428379594	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MWF	-248.02686890747344	0	16S	0	0	River	P3	-171.71666850455958	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MWP	-368.2966698792204	0	16S	0	0	River	P3	-160.96362541165317	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	MWW	-307.3503891368725	0	16S	0	0	River	P3	152.0803013402607	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	NKU	-789.3266139127479	0	16S	0	0	River	P3	-141.23398247201513	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	O	-734.5883117932159	0	16S	0	0	River	P3	131.5017989608643	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OAG	-280.49519847340946	0	16S	0	0	River	P3	-28.036986210435195	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OAK	-735.2284278691419	0	16S	0	0	River	P3	121.61797146653201	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OAL	-290.2860323916708	0	16S	0	0	River	P3	-94.01483660275714	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OAM	-513.4353393057457	0	16S	0	0	River	P3	163.31009623728255	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OB	-603.5705683501626	0	16S	0	0	River	P3	107.36067334527738	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OHP	-496.273816004262	0	16S	0	0	River	P3	158.22122365827	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OMR	-770.3824935276115	0	16S	0	0	River	P3	67.03581783431723	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OMW	-523.2084839607509	0	16S	0	0	River	P3	116.89437205474258	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OP	-761.6629509018027	0	16S	0	0	River	P3	-23.790320231270943	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OPH	-499.7312940647898	0	16S	0	0	River	P3	130.54683084573432	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OPU	-581.3512433236859	0	16S	0	0	River	P3	-40.526915440517826	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OR	-762.299365464819	0	16S	0	0	River	P3	-5.225043758959222	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	ORO	-296.5648443686001	0	16S	0	0	River	P3	-135.02953876150627	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OT	-762.5057886109456	0	16S	0	0	River	P3	-7.394468739187733	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OTH	-755.7457919299103	0	16S	0	0	River	P3	23.63575365792642	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OTN	-789.2417491565684	0	16S	0	0	River	P3	-140.04474290637697	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	OTR	-678.7863220890135	0	16S	0	0	River	P3	61.09689838462001	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PAH	-412.6101861390978	0	16S	0	0	River	P3	99.78358700737509	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PAW	-324.6580461120444	0	16S	0	0	River	P3	-101.56445796315224	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PB	-667.8486723904033	0	16S	0	0	River	P3	116.67697080904888	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PCK	-502.52795642137454	0	16S	0	0	River	P3	-113.94185988980081	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PGH	-244.22029473783243	0	16S	0	0	River	P3	-177.11852268139876	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PH	-814.7258341992017	0	16S	0	0	River	P3	89.99668227779785	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PHE	-542.3542945603805	0	16S	0	0	River	P3	78.40618203600009	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PHN	-678.651260728655	0	16S	0	0	River	P3	58.620999496423444	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PHP	-273.94318127972497	0	16S	0	0	River	P3	6.781332516593895	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PIR	-509.1392994973273	0	16S	0	0	River	P3	-164.84639746039312	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PKW	-254.96500683046844	0	16S	0	0	River	P3	87.91487582670753	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PP	-661.4430168341588	0	16S	0	0	River	P3	149.34211929226908	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PRN	-570.7478774545223	0	16S	0	0	River	P3	-67.35816907009082	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PRS	-345.4159662422227	0	16S	0	0	River	P3	119.37507113311337	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PU	-668.0287144336229	0	16S	0	0	River	P3	115.75195828634328	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	PUH	-214.8967136815268	0	16S	0	0	River	P3	-0.049589402716567005	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	QLB	-788.5489271071119	0	16S	0	0	River	P3	-50.002687233819124	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RED	-522.8304285206162	0	16S	0	0	River	P3	-122.89554771382335	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RES	-500.4025481091132	0	16S	0	0	River	P3	12.404611058416236	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RG	-286.5744705900662	0	16S	0	0	River	P3	-53.26877615042989	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RH	-802.050930746212	0	16S	0	0	River	P3	133.28268621890575	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RHP	-228.7981253890702	0	16S	0	0	River	P3	-76.58094684867096	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RMW	-297.06988818423264	0	16S	0	0	River	P3	-120.9990480181595	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	RUA	-221.90695444483976	0	16S	0	0	River	P3	-18.136674905491216	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SEL	-487.50261243614784	0	16S	0	0	River	P3	-76.81521545599693	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SH	-737.9543364253581	0	16S	0	0	River	P3	131.40021890630334	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SKL	-412.23232668528266	0	16S	0	0	River	P3	103.97428363079189	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SP	-609.284802465839	0	16S	0	0	River	P3	73.18120365621859	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SPR	-782.0284634747421	0	16S	0	0	River	P3	11.374355966218314	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SR	-387.60087432930675	0	16S	0	0	River	P3	-155.83087948998013	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	STX	-382.57842598246987	0	16S	0	0	River	P3	-107.90664222627622	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	SY	-642.9371771467096	0	16S	0	0	River	P3	-114.5718410029615	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TAS	-541.9597346078729	0	16S	0	0	River	P3	128.3899619146332	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TH	-261.8488379748685	0	16S	0	0	River	P3	67.30050849504276	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TIR	-255.95306551582922	0	16S	0	0	River	P3	100.58521484960387	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TIW	-232.53752633295713	0	16S	0	0	River	P3	-81.07750225544545	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TK	-348.9809796141079	0	16S	0	0	River	P3	-51.70718579448081	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TKP	-249.14404430630267	0	16S	0	0	River	P3	155.50668887728145	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TKT	-249.3247929155328	0	16S	0	0	River	P3	155.30422863142442	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TNK	-386.1603169597739	0	16S	0	0	River	P3	-121.48581182630451	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TP	-297.6955080263643	0	16S	0	0	River	P3	-96.53740438603997	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TR	-246.91279715250369	0	16S	0	0	River	P3	137.3042694381943	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRB	-221.7905883890435	0	16S	0	0	River	P3	-37.83079967259619	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRC	-238.85083199473843	0	16S	0	0	River	P3	-165.17260486276933	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRK	-593.6990263915427	0	16S	0	0	River	P3	94.52896348671379	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRN	-769.2038468006567	0	16S	0	0	River	P3	-13.722200392597806	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRP	-532.4157588688416	0	16S	0	0	River	P3	147.08412743623987	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TRU	-532.6709867180342	0	16S	0	0	River	P3	125.38922682925318	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TS	-255.6080589774411	0	16S	0	0	River	P3	109.25329734947543	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TSH	-226.38135671850938	0	16S	0	0	River	P3	-70.23254291074902	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	tsRM	-498.8731820827138	0	16S	0	0	River	P3	20.75442970709701	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	TUK	-225.59900984497546	0	16S	0	0	River	P3	-57.420017539185984	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	VU	-756.1933793403198	0	16S	0	0	River	P3	25.825523727888516	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WAI	-296.571002847344	0	16S	0	0	River	P3	-171.0028978793758	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WB	-616.0690862461918	0	16S	0	0	River	P3	31.506910126595105	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WC	-416.1343055026289	0	16S	0	0	River	P3	-49.79277197490871	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wgMAN	-286.0658021120589	0	16S	0	0	River	P3	-101.84374776472468	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wgPOR	-307.90949152945575	0	16S	0	0	River	P3	122.87399910709706	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WGR	-573.6364039093668	0	16S	0	0	River	P3	-73.06966470991465	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wgWG	-267.9174309712301	0	16S	0	0	River	P3	11.0126369036756	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WHB	-233.08707124566482	0	16S	0	0	River	P3	-138.7714710615213	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WKK	-545.8407191622238	0	16S	0	0	River	P3	7.570841819926468	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wkMTA	-611.873559839772	0	16S	0	0	River	P3	28.383994167963852	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WKN	-297.30659087004597	0	16S	0	0	River	P3	-161.91780907937846	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wkNK	-604.0085980181809	0	16S	0	0	River	P3	62.518209314287446	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wkOKU	-523.7742047175963	0	16S	0	0	River	P3	112.0635147355505	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WKR	-237.97666762331917	0	16S	0	0	River	P3	-110.55387286514205	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	wkWK	-532.4879157808576	0	16S	0	0	River	P3	62.264445258890476	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WMR	-379.89489958257985	0	16S	0	0	River	P3	-93.93952397922513	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WMU	-540.9349121182489	0	16S	0	0	River	P3	85.9274609730916	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WN	-585.673387272015	0	16S	0	0	River	P3	143.3118872235898	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WP	-246.01820950351595	0	16S	0	0	River	P3	176.74423440554656	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WPR	-421.4576919996143	0	16S	0	0	River	P3	24.922163305693346	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WS	-634.366370614424	0	16S	0	0	River	P3	-62.026563343002145	Rock	0
+PRJNA328535	Piece of Rock	Illumina Miseq	0	Biofilm	Aquatic	0	0	2010	Freshwater 	Microbial Feature	0	0	0	0	0	Gavin Lear	0	Organic	WTT	-542.9262231789681	0	16S	0	0	River	P3	17.44258087391776	Rock	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-44.33306438	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	AB144	-44.33306438	0	ITS	0	0	Mixed 	P4	169.0118439	Soil	169.0118439	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-43.77384042	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	AG136	-43.77384042	0	ITS	0	0	Mixed 	P4	169.5464042	Soil	169.5464042	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.85431063	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CY54N	-37.85431063	0	ITS	0	0	Broadleaf	P4	176.2365112	Soil	176.2365112	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-42.44672371	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	AZ117F	-42.44672371	0	ITS	0	0	Mixed 	P4	171.4668532	Soil	171.4668532	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-42.44690204	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	AZ117H	-42.44690204	0	ITS	0	0	Mixed 	P4	171.4694146	Soil	171.4694146	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-42.44761105	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	AZ117N	-42.44761105	0	ITS	0	0	Mixed 	P4	171.4685583	Soil	171.4685583	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-42.0228415	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	BH111	-42.0228415	0	ITS	0	0	Broadleaf	P4	172.2518624	Soil	172.2518624	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-41.5925544	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	BL107	-41.5925544	0	ITS	0	0	Broadleaf	P4	172.4985959	Soil	172.4985959	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-40.93051463	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CL96	-40.93051463	0	ITS	0	0	Broadleaf	P4	175.1465421	Soil	175.1465421	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.68329095	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CM51F	-37.68329095	0	ITS	0	0	Broadleaf	P4	175.108379	Soil	175.108379	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.68137748	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CM51H	-37.68137748	0	ITS	0	0	Broadleaf	P4	175.1070322	Soil	175.1070322	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.68231573	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CM51N	-37.68231573	0	ITS	0	0	Broadleaf	P4	175.1084875	Soil	175.1084875	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-38.64620879	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CQ65	-38.64620879	0	ITS	0	0	Mixed 	P4	175.5486024	Soil	175.5486024	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.85276744	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CY54F	-37.85276744	0	ITS	0	0	Broadleaf	P4	176.2349666	Soil	176.2349666	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.8540028	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CY54H	-37.8540028	0	ITS	0	0	Broadleaf	P4	176.2365659	Soil	176.2365659	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-38.26413821	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	DL60	-38.26413821	0	ITS	0	0	Broadleaf	P4	177.4116812	Soil	177.4116812	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-37.95073898	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	DP56	-37.95073898	0	ITS	0	0	Broadleaf	P4	177.7225635	Soil	177.7225635	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-44.84545888	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	M152	-44.84545888	0	ITS	0	0	Broadleaf	P4	167.4563419	Soil	167.4563419	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-44.78363375	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	O151H	-44.78363375	0	ITS	0	0	Broadleaf	P4	167.6652155	Soil	167.6652155	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-44.78445966	November 2014 - March 2015	Forest	0	0	Beech forest soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	O151N	-44.78445966	0	ITS	0	0	Broadleaf	P4	167.6649749	Soil	167.6649749	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-45.29684439	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	Q158F	-45.29684439	0	ITS	0	0	Mixed 	P4	167.8225027	Soil	167.8225027	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-45.29530308	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	Q158H	-45.29530308	0	ITS	0	0	Mixed 	P4	167.8222607	Soil	167.8222607	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-45.2951506	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	Q158N	-45.2951506	0	ITS	0	0	Mixed 	P4	167.8196983	Soil	167.8196983	0
+TBD	Forest Soil	Illumina Miseq, IonTorrent, Sanger	0	0	Terrestrial	0	0	-40.48160089	November 2014 - March 2015	Forest	0	0	leafy wood soil	GATGAAGAACACAGTGAAA	CGCCAGTTCTGCTTACC 	0	Ian Dickie	0	0	CR90	-40.48160089	0	ITS	0	0	Broadleaf	P4	175.666836	Soil	175.666836	0
+	Biofilm		0	Biofilm	0	0	0	1/2/2017	0	Microbial Feature	0	0	0	0	0	Syrie Hermans	0	Organic	QPSbfA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Organic Matter	0
+	Biofilm		0	Biofilm	0	0	0	1/2/2017	0	Microbial Feature	0	0	0	0	0	Syrie Hermans	0	Organic	QPSbfB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Organic Matter	0
+	Biofilm		0	Biofilm	0	0	0	1/2/2017	0	Microbial Feature	0	0	0	0	0	Syrie Hermans	0	Organic	QPSbfC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Organic Matter	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSinvA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSinvB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSinvC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSleafA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSleafB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	0	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSleafC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	0	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsedA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Sediment	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsedB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Sediment	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsedC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Sediment	0
+	0		0	0	Terrestrial	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsoilA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Soil	0
+	0		0	0	Terrestrial	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsoilB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Soil	0
+	0		0	0	Terrestrial	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSsoilC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Soil	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSstreamA	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Water	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSstreamB	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Water	0
+	0		0	0	Aquatic	0	0	1/2/2017	0	0	0	0	0	0	0	Syrie Hermans	0	0	QPSstreamC	-90.0	220	12S, 16S, COI, ITS	0	0	0	P5	173.0	Water	0
+PRJNA323375		Illumina Miseq			cropland			2/9/2013								Syrie Hermans		farm	SH1065_S297	-90.0	111 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			2/9/2013								Syrie Hermans		farm	SH1112_S344	-90.0	111 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0391_S7	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0691_S307	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0701_S317	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0726_S342	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0736_S352	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0761_S377	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0526_S142	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0538_S154	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0550_S166	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0562_S178	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0574_S190	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0403_S19	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0430_S46	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0442_S58	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0454_S70	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0466_S82	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH1091_S323	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0395_S11	-90.0	58 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0407_S23	-90.0	58 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0419_S35	-90.0	58 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0431_S47	-90.0	58 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0443_S59	-90.0	58 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0450_S66	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0396_S12	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0408_S24	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0455_S71	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0479_S95	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH1103_S335	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0420_S36	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0432_S48	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0444_S60	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH0456_S72	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2014								Syrie Hermans		farm	SH1115_S347	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0462_S78	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0491_S107	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0503_S119	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0515_S131	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0527_S143	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			19/9/2013								Syrie Hermans		farm	SH0539_S155	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0011_S11	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0036_S36	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0046_S46	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0071_S71	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0081_S81	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0474_S90	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			11/9/2014								Syrie Hermans		forest	SH0398_S14	-90.0	109 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			11/9/2014								Syrie Hermans		forest	SH0445_S61	-90.0	109 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			11/9/2014								Syrie Hermans		forest	SH0457_S73	-90.0	109 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			11/9/2014								Syrie Hermans		forest	SH0469_S85	-90.0	109 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			11/9/2014								Syrie Hermans		forest	SH1125_S357	-90.0	109 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0492_S108	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0504_S120	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0551_S167	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0563_S179	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0575_S191	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0415_S31	-90.0	280 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0493_S109	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0505_S121	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0517_S133	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0529_S145	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH1127_S359	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0482_S98	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0494_S110	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0541_S157	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0553_S169	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			9/9/2014								Syrie Hermans		farm	SH0565_S181	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0427_S43	-90.0	280 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0387_S3	-90.0	121 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0399_S15	-90.0	121 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0411_S27	-90.0	121 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0423_S39	-90.0	121 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			4/9/2014								Syrie Hermans		forest	SH0470_S86	-90.0	121 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/9/2014								Syrie Hermans		farm	SH0506_S122	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/9/2014								Syrie Hermans		farm	SH0518_S134	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/9/2014								Syrie Hermans		farm	SH0530_S146	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/9/2014								Syrie Hermans		farm	SH0542_S158	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/9/2014								Syrie Hermans		farm	SH0554_S170	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0439_S55	-90.0	280 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0388_S4	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0447_S63	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0471_S87	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH1066_S298	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH1078_S310	-90.0	30 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0483_S99	-90.0	59 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0495_S111	-90.0	59 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0507_S123	-90.0	59 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0519_S135	-90.0	59 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0566_S182	-90.0	59 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0463_S79	-90.0	280 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0484_S100	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0531_S147	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0543_S159	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0555_S171	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/9/2014								Syrie Hermans		farm	SH0567_S183	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			16/9/2014								Syrie Hermans		forest	SH0389_S5	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			16/9/2014								Syrie Hermans		forest	SH0401_S17	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			16/9/2014								Syrie Hermans		forest	SH0413_S29	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			16/9/2014								Syrie Hermans		forest	SH0460_S76	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			16/9/2014								Syrie Hermans		forest	SH0472_S88	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH1102_S334	-90.0	280 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0385_S1	-90.0	340 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0397_S13	-90.0	340 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0409_S25	-90.0	340 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH0421_S37	-90.0	340 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2014								Syrie Hermans		forest	SH1113_S345	-90.0	340 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0496_S112	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0508_S124	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0520_S136	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0532_S148	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0544_S160	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			2/9/2013								Syrie Hermans		farm	SH1124_S356	-90.0	111 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0681_S297	-90.0	75 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0097_S97	-90.0	26 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0122_S122	-90.0	26 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0147_S147	-90.0	26 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0157_S157	-90.0	26 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0182_S182	-90.0	26 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0516_S132	-90.0	13 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0528_S144	-90.0	13 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0540_S156	-90.0	13 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0552_S168	-90.0	13 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0564_S180	-90.0	13 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0706_S322	-90.0	75 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0485_S101	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0497_S113	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0556_S172	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH0568_S184	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			11/9/2014								Syrie Hermans		farm	SH1139_S371	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0577_S193	-90.0	2 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0589_S205	-90.0	2 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0601_S217	-90.0	2 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0613_S229	-90.0	2 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0625_S241	-90.0	2 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0716_S332	-90.0	75 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0578_S194	-90.0	99 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0637_S253	-90.0	99 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0649_S265	-90.0	99 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0661_S277	-90.0	99 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH1068_S300	-90.0	99 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0392_S8	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0404_S20	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0475_S91	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH1114_S346	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH1126_S358	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0741_S357	-90.0	75 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0614_S230	-90.0	78 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0626_S242	-90.0	78 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0638_S254	-90.0	78 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH0650_S266	-90.0	78 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/9/2013								Syrie Hermans		farm	SH1080_S312	-90.0	78 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0579_S195	-90.0	17 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0591_S207	-90.0	17 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0603_S219	-90.0	17 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0615_S231	-90.0	17 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0662_S278	-90.0	17 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0751_S367	-90.0	75 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2014								Syrie Hermans		farm	SH0521_S137	-90.0	4 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2014								Syrie Hermans		farm	SH0533_S149	-90.0	4 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2014								Syrie Hermans		farm	SH0545_S161	-90.0	4 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2014								Syrie Hermans		farm	SH0569_S185	-90.0	4 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2014								Syrie Hermans		farm	SH1151_S383	-90.0	4 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0486_S102	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0498_S114	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0510_S126	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0522_S138	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0534_S150	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0001_S1	-90.0	213 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0487_S103	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0499_S115	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0546_S162	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0558_S174	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			16/9/2014								Syrie Hermans		farm	SH0570_S186	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0627_S243	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0639_S255	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0651_S267	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0663_S279	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH1092_S324	-90.0	120 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0061_S61	-90.0	213 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0393_S9	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0464_S80	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0476_S92	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH1138_S370	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH1150_S382	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0592_S208	-90.0	18 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0628_S244	-90.0	18 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH0640_S256	-90.0	18 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH1104_S336	-90.0	18 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			9/9/2013								Syrie Hermans		farm	SH1116_S348	-90.0	18 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0696_S312	-90.0	213 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			17/9/2013								Syrie Hermans		farm	SH0581_S197	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			17/9/2013								Syrie Hermans		farm	SH0593_S209	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			17/9/2013								Syrie Hermans		farm	SH0605_S221	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			17/9/2013								Syrie Hermans		farm	SH0652_S268	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			17/9/2013								Syrie Hermans		farm	SH0664_S280	-90.0	70 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/9/2013								Syrie Hermans		farm	SH0629_S245	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/9/2013								Syrie Hermans		farm	SH0641_S257	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/9/2013								Syrie Hermans		farm	SH0653_S269	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/9/2013								Syrie Hermans		farm	SH0665_S281	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/9/2013								Syrie Hermans		farm	SH1128_S360	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0731_S347	-90.0	213 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0390_S6	-90.0	33 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0402_S18	-90.0	33 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0414_S30	-90.0	33 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0438_S54	-90.0	33 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH1090_S322	-90.0	33 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0582_S198	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0594_S210	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0606_S222	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0618_S234	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0630_S246	-90.0	38 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			24/9/2014								Syrie Hermans		forest	SH0766_S382	-90.0	213 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0583_S199	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0595_S211	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0642_S258	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0654_S270	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0666_S282	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0607_S223	-90.0	35 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0619_S235	-90.0	35 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0631_S247	-90.0	35 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0643_S259	-90.0	35 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			4/9/2013								Syrie Hermans		farm	SH0655_S271	-90.0	35 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			2/9/2013								Syrie Hermans		farm	SH1136_S368	-90.0	111 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			12/9/2014								Syrie Hermans		forest	SH0676_S292	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0405_S21	-90.0	21 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0417_S33	-90.0	21 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0429_S45	-90.0	21 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH1067_S299	-90.0	21 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH1079_S311	-90.0	21 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0410_S26	-90.0	46 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0422_S38	-90.0	46 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH0458_S74	-90.0	46 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH1137_S369	-90.0	46 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			25/9/2014								Syrie Hermans		forest	SH1149_S381	-90.0	46 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			12/9/2014								Syrie Hermans		forest	SH0686_S302	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0425_S41	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0437_S53	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0449_S65	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0461_S77	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			9/9/2014								Syrie Hermans		forest	SH0473_S89	-90.0	68 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0203_S203	-90.0	143 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0250_S250	-90.0	143 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0262_S262	-90.0	143 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0274_S274	-90.0	143 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0286_S286	-90.0	143 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			12/9/2014								Syrie Hermans		forest	SH0711_S327	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/10/2014								Syrie Hermans		planted forest	SH0301_S301	-90.0	440 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/10/2014								Syrie Hermans		planted forest	SH0313_S313	-90.0	440 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/10/2014								Syrie Hermans		planted forest	SH0325_S325	-90.0	440 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/10/2014								Syrie Hermans		planted forest	SH0337_S337	-90.0	440 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/10/2014								Syrie Hermans		planted forest	SH0349_S349	-90.0	440 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0290_S290	-90.0	460 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0302_S302	-90.0	460 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0314_S314	-90.0	460 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0361_S361	-90.0	460 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0373_S373	-90.0	460 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			12/9/2014								Syrie Hermans		forest	SH0721_S337	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0326_S326	-90.0	473 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0338_S338	-90.0	473 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0350_S350	-90.0	473 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0374_S374	-90.0	473 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH1101_S333	-90.0	473 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0291_S291	-90.0	520 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0303_S303	-90.0	520 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0315_S315	-90.0	520 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0327_S327	-90.0	520 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			29/10/2014								Syrie Hermans		farm	SH0339_S339	-90.0	520 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			12/9/2014								Syrie Hermans		forest	SH0746_S362	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2013								Syrie Hermans		planted forest	SH0200_S200	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2013								Syrie Hermans		planted forest	SH0212_S212	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2013								Syrie Hermans		planted forest	SH0224_S224	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2013								Syrie Hermans		planted forest	SH0236_S236	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			17/9/2013								Syrie Hermans		planted forest	SH0248_S248	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2013								Syrie Hermans		farm	SH0201_S201	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2013								Syrie Hermans		farm	SH0213_S213	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2013								Syrie Hermans		farm	SH0260_S260	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2013								Syrie Hermans		farm	SH0272_S272	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			17/9/2013								Syrie Hermans		farm	SH0284_S284	-90.0	170 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0597_S213	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			6/10/2013								Syrie Hermans		farm	SH0225_S225	-90.0	103 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			6/10/2013								Syrie Hermans		farm	SH0237_S237	-90.0	103 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			6/10/2013								Syrie Hermans		farm	SH0249_S249	-90.0	103 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			6/10/2013								Syrie Hermans		farm	SH0261_S261	-90.0	103 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			6/10/2013								Syrie Hermans		farm	SH0273_S273	-90.0	103 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0202_S202	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0214_S214	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0226_S226	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0238_S238	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0285_S285	-90.0	60 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0609_S225	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0311_S311	-90.0	130 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0323_S323	-90.0	130 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0335_S335	-90.0	130 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0347_S347	-90.0	130 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0359_S359	-90.0	130 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			20/10/2014								Syrie Hermans		farm	SH0300_S300	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			20/10/2014								Syrie Hermans		farm	SH0312_S312	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			20/10/2014								Syrie Hermans		farm	SH0324_S324	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			20/10/2014								Syrie Hermans		farm	SH0371_S371	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			20/10/2014								Syrie Hermans		farm	SH0383_S383	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0621_S237	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0292_S292	-90.0	302 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0304_S304	-90.0	302 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0351_S351	-90.0	302 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0363_S363	-90.0	302 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0375_S375	-90.0	302 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0336_S336	-90.0	72 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0348_S348	-90.0	72 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0769_S1	-90.0	72 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0781_S13	-90.0	72 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/10/2014								Syrie Hermans		farm	SH0793_S25	-90.0	72 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0633_S249	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0805_S37	-90.0	315 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0817_S49	-90.0	315 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0829_S61	-90.0	315 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0841_S73	-90.0	315 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0853_S85	-90.0	315 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0770_S2	-90.0	349 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0782_S14	-90.0	349 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0794_S26	-90.0	349 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0806_S38	-90.0	349 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0818_S50	-90.0	349 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0645_S261	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0771_S3	-90.0	405 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0783_S15	-90.0	405 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0830_S62	-90.0	405 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0842_S74	-90.0	405 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			5/11/2014								Syrie Hermans		farm	SH0854_S86	-90.0	405 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0795_S27	-90.0	139 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0807_S39	-90.0	139 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0819_S51	-90.0	139 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0831_S63	-90.0	139 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0843_S75	-90.0	139 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			2/9/2013								Syrie Hermans		farm	SH1148_S380	-90.0	111 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0586_S202	-90.0	86 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0316_S316	-90.0	561 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0328_S328	-90.0	561 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0340_S340	-90.0	561 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0352_S352	-90.0	561 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0364_S364	-90.0	561 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0293_S293	-90.0	559 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0305_S305	-90.0	559 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0317_S317	-90.0	559 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0329_S329	-90.0	559 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0376_S376	-90.0	559 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0598_S214	-90.0	86 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0294_S294	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0341_S341	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0353_S353	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0365_S365	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0377_S377	-90.0	77 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0306_S306	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0318_S318	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0330_S330	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0342_S342	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0354_S354	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0610_S226	-90.0	86 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0215_S215	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0227_S227	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0239_S239	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0251_S251	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0263_S263	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0119_S119	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0131_S131	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0143_S143	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0155_S155	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0167_S167	-90.0	27 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0657_S273	-90.0	86 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0295_S295	-90.0	324 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0307_S307	-90.0	324 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0319_S319	-90.0	324 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0378_S378	-90.0	324 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH1089_S321	-90.0	324 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0331_S331	-90.0	303 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0343_S343	-90.0	303 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0355_S355	-90.0	303 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0367_S367	-90.0	303 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			30/10/2014								Syrie Hermans		farm	SH0379_S379	-90.0	303 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0669_S285	-90.0	86 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0204_S204	-90.0	153 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0216_S216	-90.0	153 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0228_S228	-90.0	153 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0275_S275	-90.0	153 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			21/10/2014								Syrie Hermans		planted forest	SH0287_S287	-90.0	153 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0296_S296	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0308_S308	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0320_S320	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0332_S332	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0344_S344	-90.0	36 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0622_S238	-90.0	85 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0297_S297	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0309_S309	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0356_S356	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0368_S368	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0380_S380	-90.0	39 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0321_S321	-90.0	173 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0333_S333	-90.0	173 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0345_S345	-90.0	173 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0357_S357	-90.0	173 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			2014								Syrie Hermans		planted forest	SH0369_S369	-90.0	173 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0634_S250	-90.0	85 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0298_S298	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0310_S310	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0322_S322	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0334_S334	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2014								Syrie Hermans		farm	SH0381_S381	-90.0	160 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/10/2013								Syrie Hermans		farm	SH0106_S106	-90.0	57 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/10/2013								Syrie Hermans		farm	SH0118_S118	-90.0	57 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/10/2013								Syrie Hermans		farm	SH0130_S130	-90.0	57 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/10/2013								Syrie Hermans		farm	SH0142_S142	-90.0	57 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			4/10/2013								Syrie Hermans		farm	SH0189_S189	-90.0	57 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0646_S262	-90.0	85 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/9/2013								Syrie Hermans		forest	SH0108_S108	-90.0	241 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/9/2013								Syrie Hermans		forest	SH0120_S120	-90.0	241 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/9/2013								Syrie Hermans		forest	SH0132_S132	-90.0	241 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/9/2013								Syrie Hermans		forest	SH0179_S179	-90.0	241 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			23/9/2013								Syrie Hermans		forest	SH0191_S191	-90.0	241 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2013								Syrie Hermans		farm	SH0107_S107	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2013								Syrie Hermans		farm	SH0154_S154	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2013								Syrie Hermans		farm	SH0166_S166	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2013								Syrie Hermans		farm	SH0178_S178	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			19/9/2013								Syrie Hermans		farm	SH0190_S190	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0658_S274	-90.0	85 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0144_S144	-90.0	87 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0156_S156	-90.0	87 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0168_S168	-90.0	87 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0180_S180	-90.0	87 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0193_S193	-90.0	87 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0205_S205	-90.0	84 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0217_S217	-90.0	84 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0229_S229	-90.0	84 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0241_S241	-90.0	84 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			16/10/2013								Syrie Hermans		farm	SH0253_S253	-90.0	84 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/9/2013								Syrie Hermans		farm	SH0670_S286	-90.0	85 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0194_S194	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0206_S206	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0218_S218	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0265_S265	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0277_S277	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0230_S230	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0242_S242	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0254_S254	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0266_S266	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0501_S117	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0587_S203	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0599_S215	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0611_S227	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0623_S239	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0635_S251	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0588_S204	-90.0	126 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0600_S216	-90.0	126 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0647_S263	-90.0	126 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0659_S275	-90.0	126 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0671_S287	-90.0	126 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0513_S129	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0394_S10	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0406_S22	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0418_S34	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0465_S81	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			12/9/2014								Syrie Hermans		farm	SH0477_S93	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0612_S228	-90.0	25 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0624_S240	-90.0	25 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0636_S252	-90.0	25 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0648_S264	-90.0	25 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			26/9/2013								Syrie Hermans		farm	SH0660_S276	-90.0	25 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0525_S141	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0102_S102	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0112_S112	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0137_S137	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0162_S162	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0172_S172	-90.0	80 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0511_S127	-90.0	82 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0523_S139	-90.0	82 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0535_S151	-90.0	82 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0547_S163	-90.0	82 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			2/9/2014								Syrie Hermans		farm	SH0559_S175	-90.0	82 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0537_S153	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0117_S117	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0127_S127	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0152_S152	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0177_S177	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0187_S187	-90.0	12 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0488_S104	-90.0	10 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0500_S116	-90.0	10 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0512_S128	-90.0	10 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0524_S140	-90.0	10 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0571_S187	-90.0	10 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			20/9/2013								Syrie Hermans		farm	SH0549_S165	-90.0	31 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0489_S105	-90.0	24 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0536_S152	-90.0	24 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0548_S164	-90.0	24 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0560_S176	-90.0	24 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			3/9/2014								Syrie Hermans		farm	SH0572_S188	-90.0	24 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0490_S106	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0502_S118	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0514_S130	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0561_S177	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			13/9/2013								Syrie Hermans		farm	SH0573_S189	-90.0	20 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0278_S278	-90.0	19 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0195_S195	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			8/10/2013								Syrie Hermans		farm	SH0279_S279	-90.0	118 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			14/10/2013								Syrie Hermans		farm	SH0220_S220	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			14/10/2013								Syrie Hermans		farm	SH0232_S232	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			14/10/2013								Syrie Hermans		farm	SH0244_S244	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			14/10/2013								Syrie Hermans		farm	SH0256_S256	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			14/10/2013								Syrie Hermans		farm	SH0268_S268	-90.0	113 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0197_S197	-90.0	48 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0209_S209	-90.0	48 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0221_S221	-90.0	48 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0233_S233	-90.0	48 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0207_S207	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			temperate woodland			14/10/2013								Syrie Hermans		forest	SH0280_S280	-90.0	48 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			18/9/2013								Syrie Hermans		farm	SH0198_S198	-90.0	55 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			18/9/2013								Syrie Hermans		farm	SH0245_S245	-90.0	55 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			18/9/2013								Syrie Hermans		farm	SH0257_S257	-90.0	55 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			18/9/2013								Syrie Hermans		farm	SH0269_S269	-90.0	55 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			18/9/2013								Syrie Hermans		farm	SH0281_S281	-90.0	55 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/10/2013								Syrie Hermans		farm	SH0210_S210	-90.0	104 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/10/2013								Syrie Hermans		farm	SH0222_S222	-90.0	104 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/10/2013								Syrie Hermans		farm	SH0234_S234	-90.0	104 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/10/2013								Syrie Hermans		farm	SH0246_S246	-90.0	104 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0219_S219	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			8/10/2013								Syrie Hermans		farm	SH0258_S258	-90.0	104 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/10/2013								Syrie Hermans		farm	SH0199_S199	-90.0	112 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/10/2013								Syrie Hermans		farm	SH0211_S211	-90.0	112 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/10/2013								Syrie Hermans		farm	SH0223_S223	-90.0	112 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/10/2013								Syrie Hermans		farm	SH0270_S270	-90.0	112 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			cropland			6/10/2013								Syrie Hermans		farm	SH0282_S282	-90.0	112 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0299_S299	-90.0	165 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0346_S346	-90.0	165 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0358_S358	-90.0	165 m	16S				P6	173.0	Soil	
+PRJNA323375		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0370_S370	-90.0	165 m	16S				P6	173.0	Soil	
+PRJNA323376		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0231_S231	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323377		Illumina Miseq			rangeland			21/10/2014								Syrie Hermans		farm	SH0382_S382	-90.0	165 m	16S				P6	173.0	Soil	
+PRJNA323378		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0235_S235	-90.0	62 m	16S				P6	173.0	Soil	
+PRJNA323379		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0247_S247	-90.0	62 m	16S				P6	173.0	Soil	
+PRJNA323380		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0259_S259	-90.0	62 m	16S				P6	173.0	Soil	
+PRJNA323381		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0271_S271	-90.0	62 m	16S				P6	173.0	Soil	
+PRJNA323382		Illumina Miseq			rangeland			26/9/2013								Syrie Hermans		farm	SH0283_S283	-90.0	62 m	16S				P6	173.0	Soil	
+PRJNA323383		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0240_S240	-90.0	444 m	16S				P6	173.0	Soil	
+PRJNA323384		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0252_S252	-90.0	444 m	16S				P6	173.0	Soil	
+PRJNA323385		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0264_S264	-90.0	444 m	16S				P6	173.0	Soil	
+PRJNA323386		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0276_S276	-90.0	444 m	16S				P6	173.0	Soil	
+PRJNA323387		Illumina Miseq			rangeland			10/10/2013								Syrie Hermans		farm	SH0243_S243	-90.0	50 m	16S				P6	173.0	Soil	
+PRJNA323388		Illumina Miseq			rangeland			23/10/2014								Syrie Hermans		farm	SH0289_S289	-90.0	444 m	16S				P6	173.0	Soil	
+PRJNA323389		Illumina Miseq			rangeland			8/10/2013								Syrie Hermans		farm	SH0196_S196	-90.0	118 m	16S				P6	173.0	Soil	
+PRJNA323390		Illumina Miseq			rangeland			8/10/2013								Syrie Hermans		farm	SH0208_S208	-90.0	118 m	16S				P6	173.0	Soil	
+PRJNA323391		Illumina Miseq			rangeland			8/10/2013								Syrie Hermans		farm	SH0255_S255	-90.0	118 m	16S				P6	173.0	Soil	
+PRJNA323392		Illumina Miseq			rangeland			8/10/2013								Syrie Hermans		farm	SH0267_S267	-90.0	118 m	16S				P6	173.0	Soil	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0193_S1	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0194_S2	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0195_S3	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0196_S4	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0197_S5	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0198_S6	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0199_S7	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0200_S8	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0201_S9	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0202_S10	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0203_S11	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0204_S12	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0205_S13	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0206_S14	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0207_S15	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0208_S16	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0209_S17	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0210_S18	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0211_S19	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0212_S20	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0213_S21	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0214_S22	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0215_S23	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0216_S24	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0217_S25	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0218_S26	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0219_S27	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0220_S28	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0221_S29	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0222_S30	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0223_S31	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0224_S32	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0225_S33	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0226_S34	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0227_S35	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0228_S36	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0229_S37	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0230_S38	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0231_S39	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0232_S40	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0233_S41	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0234_S42	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0238_S46	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0239_S47	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0240_S48	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0241_S49	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0242_S50	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-41.5	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0243_S51	-41.5					Cropland	P7	174	Anthropogenic_environmental_material; agricultural_environmental_material	174	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0244_S52	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0245_S53	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0246_S54	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0247_S55	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0248_S56	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0249_S57	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0250_S58	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0251_S59	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0252_S60	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0253_S61	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0254_S62	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0255_S63	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0256_S64	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0257_S65	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0258_S66	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0259_S67	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0260_S68	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0261_S69	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0262_S70	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0263_S71	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0264_S72	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0265_S73	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0266_S74	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0267_S75	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0268_S76	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0269_S77	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0270_S78	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0271_S79	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0272_S80	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0273_S81	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0274_S82	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0275_S83	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0276_S84	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0277_S85	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0282_S90	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0283_S91	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0284_S92	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0285_S93	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0286_S94	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0287_S95	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0288_S96	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0289_S97	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0290_S98	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0291_S99	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0292_S100	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0293_S101	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0294_S102	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0295_S103	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0296_S104	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0297_S105	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0298_S106	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0299_S107	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0300_S108	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0301_S109	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0302_S110	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0303_S111	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0304_S112	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0305_S113	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0306_S114	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0307_S115	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0308_S116	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0309_S117	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0310_S118	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0311_S119	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0312_S120	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0313_S121	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0314_S122	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0315_S123	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0316_S124	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0317_S125	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0318_S126	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0319_S127	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+					Terrestrial			-43.0	Feb-16	Anthropogenic_terrestrial				Fun58A2R_MS	NSI1mod_MS		Sarah Thompson		Organic	ST0327_S135	-43.0					Cropland	P7	173	Anthropogenic_environmental_material; agricultural_environmental_material	173	
+PRJEB15435		Illumina Hiseq 2000		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 3 of NZ FACE expt . In ring 3 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	x		Gail Ackerman/Saman Bowatte			659.NZFACE.R4.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15436		Illumina Hiseq 2001		pasture	Terrestrial	soil sample from Ring 2 of NZ FACE expt . In ring 2 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R2.control.23.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15437		Illumina Hiseq 2002		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 2 of NZ FACE expt . In ring 2 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R2.Ryegrass.24.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15438		Illumina Hiseq 2003		pasture	Terrestrial	soil sample from rhizosphere soil of browntop grass from Ring 2 of NZ FACE expt . In ring 2 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R3.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15439		Illumina Hiseq 2004		pasture	Terrestrial	soil sample from Ring 3 of NZ FACE expt . In ring 3 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R3.Ryegrass.19.7	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15440		Illumina Hiseq 2005		pasture	Terrestrial	soil sample from Ring 3of NZ FACE expt . In ring 3 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R3.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15441		Illumina Hiseq 2006		pasture	Terrestrial	soil sample from rhizosphere soil of browntop grass from Ring 3of NZ FACE expt . In ring 3pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R4.Ryegrass.16.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15442		Illumina Hiseq 2007		pasture	Terrestrial	soil sample from Ring 4 of NZ FACE expt . In ring 4 pasture atmosphere is enriched with ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R5.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15443		Illumina Hiseq 2008		pasture	Terrestrial	soil sample from Ring 4 of NZ FACE expt . In ring 4 pasture atmosphere is enriched with ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R5.Ryegrass	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15444		Illumina Hiseq 2009		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 4 of NZ FACE expt . In ring 4 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R6.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15445		Illumina Hiseq 2010		pasture	Terrestrial	soil sample from rhizosphere soil of browntop grass from Ring 4 of NZ FACE expt . In ring 4 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R6.Ryegrass	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15446		Illumina Hiseq 2011		pasture	Terrestrial	soil sample from Ring 5 of NZ FACE expt . In ring 5 pasture atmosphere is enriched with ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R2.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15447		Illumina Hiseq 2012		pasture	Terrestrial	soil sample from Ring 5 of NZ FACE expt . In ring 5 pasture atmosphere is enriched with ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R3.control.19.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15448		Illumina Hiseq 2013		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 5 of NZ FACE expt . In ring 5 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R4.control.19.8	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15449		Illumina Hiseq 2014		pasture	Terrestrial	soil sample from rhizosphere soil of browntop grass from Ring 5 of NZ FACE expt . In ring 5 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R4.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15450		Illumina Hiseq 2015		pasture	Terrestrial	soil sample from Ring 1 of NZ FACE expt . In ring 1 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R1.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15451		Illumina Hiseq 2016		pasture	Terrestrial	soil sample from Ring 1 of NZ FACE expt . In ring 1 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R1.control.19.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15452		Illumina Hiseq 2017		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 1 of NZ FACE expt . In ring 1 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R1.Ryegrass.26.4	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15453		Illumina Hiseq 2018		pasture	Terrestrial	soil sample from rhizosphere soil of browntop grass from Ring 1 of NZ FACE expt . In ring 1 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R1.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15454		Illumina Hiseq 2019		pasture	Terrestrial	soil sample from Ring 2 of NZ FACE expt . In ring 2 pasture atmosphere is enriched with 475 ppm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R2.Browntop	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15455		Illumina Hiseq 2020		pasture	Terrestrial	soil sample from Ring 6 of NZ FACE expt . In ring 6 pasture atmosphere is enriched with ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. No warming		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R5.control	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15456		Illumina Hiseq 2021		pasture	Terrestrial	soil sample from Ring 6 of NZ FACE expt . In ring 6 pasture atmosphere is enriched ambient atm CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R5.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15457		Illumina Hiseq 2022		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 6 of NZ FACE expt . In ring 6 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R6.control	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	
+PRJEB15458		Illumina Hiseq 2023		pasture	Terrestrial	soil sample from rhizosphere soil of ryegrass from Ring 6 of NZ FACE expt . In ring 6 pasture atmosphere is enriched with ambient CO2 throughout photoperiod and throughout photoperiod since 1997. area exposed to warming treatment since 2009		-40.017	1/5/2011	Anthropogenic_terrestrial			soil	GTGCCAGCMGCCGCGGTAA	GGACTACHVGGGTWTCTAAT		Gail Ackerman/Saman Bowatte			659.NZFACE.R6.warm	-40.017	15	16S	Mollic Psammaquent		Cropland	P8	175.267		175.267	

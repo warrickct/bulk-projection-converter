@@ -18,10 +18,11 @@ def clean_value(value):
     print("cleaned: %s"  % cleaned_value)
     return cleaned_value
 
-def convert_coordinate(x, y):
+def convert_nzgd2000_to_wgs84(x, y):
     '''
     Casts coordinates into numeric floats, converts them from NZGD2000 to epsg:4326
     '''
+    print("converting from nzgd2000")
     coordinate_system = ({
         # New Zealand Mercator 2000
         "NZGD2000": "epsg:2193",
@@ -30,9 +31,6 @@ def convert_coordinate(x, y):
         # WGS 84
         "WGS84": "epsg:4326",
         })
-    
-    x = clean_value(x)
-    y = clean_value(y)
     inProj = Proj(init='epsg:2193')
     outProj = Proj(init='epsg:4326')
     out_x, out_y = transform(inProj, outProj, x, y)
@@ -85,7 +83,7 @@ file = open(fname)
 # reader = csv.reader(file, delimiter=',')
 
 # Change change to desired output name
-output_rows = raw_input('just extract the rows? [y/n]: ')
+output_rows = input('just extract the rows? [y/n]: ')
 file_reader = csv.DictReader(file, delimiter='\t')
 with open(fname + "-converted", "w") as output_file:
     writer = csv.writer(output_file, delimiter="\t")
@@ -131,11 +129,11 @@ with open(fname + "-converted", "w") as output_file:
                 if is_dms_format(x) or is_dms_format(y):
                     x = DMS_to_DD(x)
                     y = DMS_to_DD(y)
-                if is_nzgd2000(x) or is_nzgd2000(y):
-                    print("is not wgs84, converting")
-                    x, y = convert_coordinate(input_row_dict['Longitude'], input_row_dict['Latitude'])
+                elif is_nzgd2000(x) or is_nzgd2000(y):
+                    x, y = convert_nzgd2000_to_wgs84(x, y)
                     field_term_x = 'Longitude'
                     field_term_y = 'Latitude'
+                print(x, y)
                 # assumes x is the second row in the file, and y is the second
                 output_row_dict = input_row_dict
                 # insert back into the right dictionary spot
